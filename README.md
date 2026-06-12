@@ -115,9 +115,9 @@ java spaceshooter.SpaceShooterGame
 
 | Main Menu | Gameplay | Game Over |
 |-----------|----------|-----------|
-| <img width="1166" height="998" alt="image" src="https://github.com/user-attachments/assets/7ea28f64-e8d6-45f8-b60a-a14b9e33d47b" />
- | <img width="770" height="701" alt="image" src="https://github.com/user-attachments/assets/16eefab6-554d-40f1-ba29-cff229dd1866" />
- | <img width="761" height="565" alt="image" src="https://github.com/user-attachments/assets/5fdeb1ad-7120-4624-8f69-61871e45f153" />
+| <img width="250" height="200" alt="gameplay" src="https://github.com/user-attachments/assets/7ea28f64-e8d6-45f8-b60a-a14b9e33d47b" />
+ | <img width="250" height="200" alt="gameplay" src="https://github.com/user-attachments/assets/16eefab6-554d-40f1-ba29-cff229dd1866" />
+ | <img width="250" height="200" alt="gameplay" src="https://github.com/user-attachments/assets/5fdeb1ad-7120-4624-8f69-61871e45f153" />
  |
 
 ---

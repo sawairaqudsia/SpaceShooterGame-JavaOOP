@@ -113,15 +113,12 @@ java spaceshooter.SpaceShooterGame
 
 ## 📸 Screenshots
 
-**| Main Menu |**
-<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/acc271a9-f657-4357-bdde-090cc9dfebc5" />
-
-**| Gameplay |**
-<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/57bb90ff-f373-4177-a3db-a6d2608d41cd" />
-
-**| Game Over |**
-<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/ab671f2c-96af-4e42-8f19-f99b9c675ae9" />
-
+| Main Menu | Gameplay | Game Over |
+|-----------|----------|-----------|
+| <img width="1166" height="998" alt="image" src="https://github.com/user-attachments/assets/7ea28f64-e8d6-45f8-b60a-a14b9e33d47b" />
+ | <img width="770" height="701" alt="image" src="https://github.com/user-attachments/assets/16eefab6-554d-40f1-ba29-cff229dd1866" />
+ | <img width="761" height="565" alt="image" src="https://github.com/user-attachments/assets/5fdeb1ad-7120-4624-8f69-61871e45f153" />
+ |
 
 ---
 
@@ -134,5 +131,20 @@ This project is open-source and free to use for educational purposes.
 ## 👤 Author
 
 **SAWAIRA QUDSIA**
+
+Semester Project — Java OOP
+
+
+---
+
+## 📸 Screenshots
+
+*(Add your game screenshots here)*
+
+| Main Menu | Gameplay | Game Over |
+|-----------|----------|-----------|
+| ![menu](screenshots/menu.png) | ![gameplay](screenshots/gameplay.png) | ![gameover](screenshots/gameover.png) |
+
+---
 
 Semester Project — Java OOP

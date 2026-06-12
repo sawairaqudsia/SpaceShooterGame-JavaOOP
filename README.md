@@ -111,6 +111,20 @@ java spaceshooter.SpaceShooterGame
 
 ---
 
+## 📸 Screenshots
+
+| Main Menu |
+<img width="1177" height="987" alt="image" src="https://github.com/user-attachments/assets/acc271a9-f657-4357-bdde-090cc9dfebc5" />
+
+| Gameplay |
+<img width="1159" height="1000" alt="image" src="https://github.com/user-attachments/assets/57bb90ff-f373-4177-a3db-a6d2608d41cd" />
+
+| Game Over |
+<img width="1183" height="993" alt="image" src="https://github.com/user-attachments/assets/ab671f2c-96af-4e42-8f19-f99b9c675ae9" />
+
+
+---
+
 ## 📄 License
 
 This project is open-source and free to use for educational purposes.
@@ -120,4 +134,5 @@ This project is open-source and free to use for educational purposes.
 ## 👤 Author
 
 **SAWAIRA QUDSIA**
+
 Semester Project — Java OOP
